@@ -1,0 +1,4 @@
+name = "chat"
+route_prefix = "/chat"
+autostart = true
+description = "Chat through the saved OpenRouter settings"

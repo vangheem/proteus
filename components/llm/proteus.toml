@@ -1,0 +1,4 @@
+name = "llm"
+route_prefix = "/llm"
+autostart = true
+description = "OpenRouter settings and encrypted token"

@@ -1,0 +1,9 @@
+target/
+var/
+__pycache__/
+*.pyc
+.venv/
+.env
+.pytest_cache/
+*.log
+.DS_Store

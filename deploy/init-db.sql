@@ -1,0 +1,3 @@
+CREATE USER proteus WITH PASSWORD 'proteus';
+CREATE DATABASE proteus OWNER proteus;
+GRANT ALL PRIVILEGES ON DATABASE proteus TO proteus;
